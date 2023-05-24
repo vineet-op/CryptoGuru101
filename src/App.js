@@ -9,6 +9,7 @@ import CryptoDetails from "./components/CryptoDetails";
 import News from "./components/News";
 import "antd/dist/reset.css";
 
+
 function App() {
   return (
     <div className="App">
