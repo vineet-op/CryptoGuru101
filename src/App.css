@@ -378,11 +378,23 @@ width: 70%;
   align-items: center;
 }
 
-
+.Tables{
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  padding-left: 20rem;
+}
 
 .heading{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding-left: 20rem;
 
 }
+
+.home-title{
+  padding-left: 20rem;
+}
+
+.crypto-card-container{
+  padding-left: 20rem;
+} 
+

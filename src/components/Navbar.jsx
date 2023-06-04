@@ -1,7 +1,6 @@
 import React from 'react'
 import { Menu, Typography, Avatar, Button } from 'antd'
 import { HomeOutlined, FundOutlined, MoneyCollectOutlined, BulbOutlined, MenuOutlined } from '@ant-design/icons'
-// import Link from 'antd/es/typography/Link'
 import icon from '../images/cryptocurrency.png'
 import { Link } from "react-router-dom"
 
