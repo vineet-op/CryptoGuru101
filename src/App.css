@@ -1,3 +1,4 @@
+
 :root{
   --text-primary:#000;
   --bgPrimary:#fff;
@@ -375,4 +376,13 @@ width: 70%;
   flex-direction: column;
   padding: 20px;
   align-items: center;
+}
+
+
+
+.heading{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
 }

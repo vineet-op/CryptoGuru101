@@ -7,7 +7,7 @@ import Cryptocurrencies from "./components/Cryptocurrencies";
 import Exchange from "./components/Exchange";
 import CryptoDetails from "./components/CryptoDetails";
 import News from "./components/News";
-import "antd/dist/reset.css";
+import 'antd/dist/reset.css';
 
 
 function App() {
@@ -33,6 +33,9 @@ function App() {
             </Routes>
           </div>
         </Layout>
+
+
+
         <div className="footer">
           <Typography.Title
             level={5}
