@@ -136,7 +136,6 @@ a:hover{
 
 .coin-detail-container{
   margin: 30px;
-  padding-left: 14rem;
 }
 
 .coin-heading-container{
@@ -148,7 +147,6 @@ a:hover{
   padding-top: 20px;
   padding-bottom: 20px;
   gap: 10px;
- 
 }
 
 .coin-heading-container .coin-name{
@@ -292,19 +290,13 @@ padding: 0px 20px;
 
 .select-news{
   width: 180px;
-  
 }
 .news-card{
   min-height: 300px !important;
- 
-
 }
 .news-image-container{
   display: flex !important;
   justify-content: space-between !important;
-  
-  
-  
 }
 .news-title{
 width: 70%;
@@ -313,19 +305,14 @@ width: 70%;
 .news-image-container .img{
   width:100px;
   height:100px;
-
-  
 }
 .news-card p{
   color: black;
   margin: 10px 0px !important;
-  
 }
 .provider-container{
   display: flex;
   justify-content: space-between;
-  
-  
 }
 .provider-name{
   margin-left: 10px;
@@ -391,26 +378,14 @@ width: 70%;
   align-items: center;
 }
 
-.Tables{
-  /* display: flex; */
-  /* align-items: center; */
-  /* justify-content: center; */
-  padding-left: 20rem;
+.tables{
+  padding-left: 14rem;
+}
+
+.routes{
+  padding-left: 17rem;
 }
 
 .heading{
-  padding-left: 20rem;
-
-}
-
-.home-title{
-  padding-left: 20rem;
-}
-
-.crypto-card-container{
-  padding-left: 20rem;
-} 
-
-.news-row{
-  padding-left: 20rem;
+  padding-left: 14rem;
 }
