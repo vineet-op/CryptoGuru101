@@ -34,7 +34,7 @@ a:hover{
   
 }
 .routes{
-  padding: 20px;
+  padding: 52px;
 }
 .nav-container{
   position: fixed;
@@ -79,8 +79,11 @@ a:hover{
   .main{
       margin-left: 50px;
   }
+  
 }
-
+.crypto-card-container {
+  padding-left: 14rem;
+}
 @media screen and (max-width:1170px){
   .main{
       margin-left: 50px;
@@ -101,6 +104,7 @@ a:hover{
 
   .navbar{
       flex: 1;
+      margin-top: -90px;
   }
 
   .main{
@@ -290,6 +294,7 @@ padding: 0px 20px;
 
 .select-news{
   width: 180px;
+  margin-left:213px;
 }
 .news-card{
   min-height: 300px !important;
@@ -382,10 +387,23 @@ width: 70%;
   padding-left: 14rem;
 }
 
-.routes{
-  padding-left: 17rem;
+@media screen and (max-width: 400px){
+
+  .routes{
+    padding-left:0px ;
+  }
 }
 
 .heading{
+  padding-left: 14rem;
+}
+
+.premieum{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-heading-container {
   padding-left: 14rem;
 }
